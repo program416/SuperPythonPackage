@@ -18,3 +18,4 @@ def slow_print(string, option=list(), delay=0.03, end_delay=0.3):
             print(i, end='')
             time.sleep(delay)
         time.sleep(end_delay)
+
